@@ -610,6 +610,10 @@ h2::before {
   letter-spacing: 0.4px;
 }
 
+.notice__item span {
+  text-decoration: underline;
+}
+
 .footer {
   background-color: #222020;
   color: #fff;
